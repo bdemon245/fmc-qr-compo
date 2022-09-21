@@ -1,0 +1,1 @@
+A QR component card using html css for front end mentor challenge
